@@ -6,13 +6,12 @@ Este programa realiza a soma de dois números decimais inseridos pelo usuário, 
 
 1. Compile o programa:
    ```bash
-   javac soma.java
-````
+   javac Soma.java
+   ```
 
 2. Execute:
-
    ```bash
-   java soma
+   java Soma
    ```
 
 3. Insira dois valores (ex: `10,5` ou `10.5`) e veja o resultado da soma formatado com duas casas decimais.
@@ -20,7 +19,7 @@ Este programa realiza a soma de dois números decimais inseridos pelo usuário, 
 ## Exemplo de saída
 
 ```
-Calculadora de soma  
+Calculadora de Soma  
 Insira o primeiro valor:  
 10,5  
 Insira o segundo valor:  
