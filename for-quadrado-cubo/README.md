@@ -1,4 +1,4 @@
-# Estudo For: Quadrado e Cubo
+# For: Quadrado e Cubo
 
 Este programa demonstra o uso do loop `for` para ler um número inteiro positivo N e exibir N linhas na tela. Cada linha mostra o número da linha, seguido de seu quadrado e cubo.
 
