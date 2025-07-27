@@ -1,41 +1,20 @@
-# ☕ Repositório de Estudos em Java
+# Repositório de Estudos em Java
 
-Este repositório tem como finalidade registrar minha trajetória de aprendizado na linguagem **Java**.  
-Reunirei aqui códigos, exercícios, anotações e experimentações desenvolvidas ao longo dos estudos.
+Este repositório documenta minha jornada de aprendizado e aprofundamento na linguagem de programação Java. O projeto concentra exercícios práticos, implementações de conceitos fundamentais e avançados, além de experimentações que contribuem para o desenvolvimento de competências técnicas sólidas na linguagem.
 
----
+## Objetivo
 
-## 🎯 Objetivo
+O repositório tem como finalidade consolidar conhecimentos teóricos através da prática, explorando desde conceitos básicos até funcionalidades mais complexas do ecossistema Java. Representa um registro sistemático do progresso de aprendizado e serve como material de referência para consultas futuras.
 
-- Consolidar os conhecimentos adquiridos durante a prática
-- Exercitar conceitos fundamentais e avançados da linguagem Java
-- Compartilhar soluções e ideias com a comunidade
-- Acompanhar minha evolução como desenvolvedor
+## Ambiente de Desenvolvimento
 
----
+- **Java Development Kit (JDK):** Eclipse Temurin JDK 21 LTS (Adoptium)
+- **IDE:** IntelliJ IDEA Community Edition (a partir de 21/07/2025)
 
-## 🛠️ Ambiente de Desenvolvimento
+## Estrutura do Repositório
 
-- **Java Development Kit (JDK):** Eclipse Temurin JDK 21 LTS ([Adoptium](https://adoptium.net/))
-- **Editor de Código:** Visual Studio Code
-- **Extensões Utilizadas:**
-  - Extension Pack for Java (VS Code)
-    - Language Support for Java™ by Red Hat
-    - Debugger for Java
-    - Java Test Runner
-    - Maven for Java
-    - Visual Studio IntelliCode
+O repositório está organizado de forma a facilitar a navegação e compreensão dos diferentes tópicos estudados. Os códigos implementados abordam conceitos fundamentais e avançados da linguagem Java.
 
----
+## Status do Projeto
 
-## 🚧 Status do Repositório
-
-Este repositório está em constante atualização.  
-Os arquivos presentes podem conter anotações, testes e códigos em desenvolvimento.
-
----
-
-## 🤝 Contribuições
-
-Embora este seja um espaço pessoal de estudo, sugestões construtivas e feedbacks são sempre bem-vindos.  
-Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Este é um repositório ativo, em constante evolução conforme novos conceitos são estudados e implementados. O conteúdo reflete o progresso contínuo de aprendizado na linguagem Java.
